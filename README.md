@@ -9,3 +9,4 @@ In that OUTPUT_PATH there will be 3 folders: `checkpoints`, `tf_logs` and `val_s
 ## Run inference
 
  `python run.py --audio_dir AUDIO_PATH --checkpoint_path CHEKPOINT_PATH`
+
